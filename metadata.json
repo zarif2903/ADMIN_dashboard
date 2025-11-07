@@ -1,0 +1,5 @@
+{
+  "name": "Material Dashboard 2 Clone",
+  "description": "A dashboard application inspired by the Material Dashboard 2 design, built with React, TypeScript, and Tailwind CSS. It features a sidebar, header, and content area with charts and notifications.",
+  "requestFramePermissions": []
+}
